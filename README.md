@@ -3,7 +3,7 @@
 **` Software Developer`**
 
 
-Hello, I'm Jesus, a student pursuing a degree in Computer Engineering. I enjoy generating code and designing structures, implementing them, and envisioning well-constructed software. Here, you'll have a glimpse of several projects I've created during my time at university and beyond. These include developments in C#, Python, Java, Assembly, React, and React Native.
+Hello and welcome to my space! In this profile, you will find various projects that I'm currently working on—some just for fun and others for university. I'm a computer engineer who recently graduated. If you are interested in any of my projects, feel free to reach out to me via email at jesus.jarr.30@gmail.com. We can work together, or if you want to use my software, please check the readme for instructions on compiling the project
 
 
 ---
